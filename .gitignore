@@ -2,6 +2,8 @@
 *.pyc
 *~
 .DS_Store
+.coverage
 .env
 __pycache__
-venv
+htmlcov/
+venv/
